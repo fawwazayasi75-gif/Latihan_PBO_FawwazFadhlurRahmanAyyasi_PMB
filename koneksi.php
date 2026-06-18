@@ -5,7 +5,7 @@ class Database {
     private $host = "localhost";
     private $username = "root"; // Sesuaikan dengan username MySQL Anda
     private $password = "";     // Sesuaikan dengan password MySQL Anda
-    private $db_name = "DB_SIMULASI_PBO_KELAS_FawwazFadhlurRahmanAyyasi";
+    private $db_name = "DB_SIMULASI_PBO_TI1D_FawwazFadhlurRahmanAyyasi";
     public $conn;
 
     public function getConnection() {

@@ -2,7 +2,7 @@
 // index.php
 
 // Memuat koneksi dan kelas-kelas yang diperlukan
-require_once 'koneksi/database.php';
+require_once 'koneksi.php';
 require_once 'Pendaftaran.php';
 require_once 'PendaftaranReguler.php';
 require_once 'PendaftaranPrestasi.php';
